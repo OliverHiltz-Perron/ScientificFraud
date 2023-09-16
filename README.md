@@ -66,15 +66,7 @@ After running the script, you will get an Excel file named `raw_df.xlsx` contain
 - The scraping logic is tailored specifically to the structure of the target website. If the website's structure changes, the code may need modifications.
 - Always respect `robots.txt` when web scraping.
 
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)
-
 ## Contributing
 
 If you wish to contribute to this project, kindly send a pull request.
-
----
-
-© 2023 Your Name, All Rights Reserved.  
 
