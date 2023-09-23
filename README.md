@@ -6,14 +6,14 @@ During the challenges posed by COVID, I pursued and successfully completed the '
 
 In this project, my responsibilities involved web scraping the entire library of papers available for sale from the organization's website as well as archived versions on the Internet Archive. I was instrumental in translating paper titles and performing currency conversions. The entirety of my robust code and the comprehensive dataset derived from this investigation is readily accessible both in this repository and on Data.World for transparency and wider community benefit.
 
-Our investigation was featured by the scientific news organization [Retraction Watch](https://retractionwatch.com/author/perronetal/). Our work led to dozens of retractions, [including 30 retractions from a single journal](https://retractionwatch.com/2022/07/05/our-deepest-apology-journal-retracts-30-likely-paper-mill-articles-after-investigation-published-by-retraction-watch/). We met with staff of the U.S. House of Representatives Science Committee to provide guidance on a briefing regarding scientific fraud.  Our work has been cited in dozens of reports, including (but not limited to):
-
-- [The Scientist](https://www.the-scientist.com/news-opinion/the-top-retractions-of-2022-70852#:~:text=Oliver%20Hiltz%2DPerron%2C%20a%20high%20school%20student%2C)
-- [The Guardian](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch#:~:text=to%20paper%20mills%20%E2%80%93%20scientific%20chop)
+Our investigation was featured by the scientific news organization [Retraction Watch](https://retractionwatch.com/author/perronetal/). Our work led to dozens of retractions, [including 30 retractions from a single journal](https://retractionwatch.com/2022/07/05/our-deepest-apology-journal-retracts-30-likely-paper-mill-articles-after-investigation-published-by-retraction-watch/). We met with staff of the U.S. House of Representatives Science Committee to provide guidance on a briefing regarding scientific fraud.  
 
 <img width="400" alt="Screenshot 2023-09-23 at 11 51 51 AM" src="https://github.com/Soul-Jacker/Retraction_Watch/assets/2854746/1882591f-e8b2-4aab-996d-0895ec56e4d1">
 
+Our work has been cited in dozens of reports, including (but not limited to):
 
+- [The Scientist](https://www.the-scientist.com/news-opinion/the-top-retractions-of-2022-70852#:~:text=Oliver%20Hiltz%2DPerron%2C%20a%20high%20school%20student%2C)
+- [The Guardian](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch#:~:text=to%20paper%20mills%20%E2%80%93%20scientific%20chop)
 
 ## Features
 
