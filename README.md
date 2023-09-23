@@ -5,6 +5,13 @@
 During the challenges posed by COVID, I pursued and successfully completed the 'Python for Everyone Specialization' by the University of Michigan via Coursera. Leveraging these newfound skills, I played a pivotal role in an investigation into an _academic paper mill_ based in Russia, known as International Publishers. This clandestine organization specializes in the unethical practice of selling academic papers and orchestrating manipulative peer reviews.
 
 In this project, my responsibilities involved web scraping the entire library of papers available for sale from the organization's website as well as archived versions on the Internet Archive. I was instrumental in translating paper titles and performing currency conversions. The entirety of my robust code and the comprehensive dataset derived from this investigation is readily accessible both in this repository and on Data.World for transparency and wider community benefit.
+
+Our investigation was featured by the scientific news organization [Retraction Watch](https://retractionwatch.com/author/perronetal/).   
+
+<img width="870" alt="Screenshot 2023-09-23 at 11 51 51 AM" src="https://github.com/Soul-Jacker/Retraction_Watch/assets/2854746/1882591f-e8b2-4aab-996d-0895ec56e4d1">
+
+
+
 ## Features
 
 - Web scraping from a specified URL pattern.
