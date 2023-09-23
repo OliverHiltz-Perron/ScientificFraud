@@ -1,4 +1,4 @@
-# The business of scientific misconduct
+# The business of scientific fraud
 
 ## About this project
 
