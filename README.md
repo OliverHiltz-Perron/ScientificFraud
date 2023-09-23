@@ -12,6 +12,7 @@ Our work has been cited by numerous scientific news organizations, including (bu
 - [Science](https://www.science.org/content/article/russian-website-peddles-authorships-linked-reputable-journals#:~:text=In%20December%202021%2C%20he%20co%2Dauthored%20a%20separate%20analysis%20of%20www.123mi.ru%20on%20Retraction%20Watch%2C%20which%20described%20nearly%20200%20papers%20that%20may%20match%20authorships%20advertised%20there%3B%20subsequently%2C%20he%20and%20a%20colleague%20posted%20a%20catalog%20of%20contracts%20displayed%20on%20the%20site%2C%20which%20together%20refer%20to%20about%201500%20articles.)
 - [The Scientist](https://www.the-scientist.com/news-opinion/the-top-retractions-of-2022-70852#:~:text=Oliver%20Hiltz%2DPerron%2C%20a%20high%20school%20student%2C)
 - [The Guardian](https://www.theguardian.com/commentisfree/2023/aug/09/scientific-misconduct-retraction-watch#:~:text=to%20paper%20mills%20%E2%80%93%20scientific%20chop)
+- [The British Medical Journal](https://www.bmj.com/content/379/bmj-2022-071517)
 
 This GitHub site contains the code (`Fraud-Retrieval.ipynb`) I independently prepared for the project and the final curated data set (`123miru_meta-data.csv`), which is also publicly available on [Data.World](https://data.world/beperron/international-publisher).
 
