@@ -8,7 +8,7 @@ In this project, my responsibilities involved web scraping the entire library of
 
 Our investigation was featured by the scientific news organization [Retraction Watch](https://retractionwatch.com/author/perronetal/).   
 
-<img width="870" alt="Screenshot 2023-09-23 at 11 51 51 AM" src="https://github.com/Soul-Jacker/Retraction_Watch/assets/2854746/1882591f-e8b2-4aab-996d-0895ec56e4d1">
+<img width="400" alt="Screenshot 2023-09-23 at 11 51 51 AM" src="https://github.com/Soul-Jacker/Retraction_Watch/assets/2854746/1882591f-e8b2-4aab-996d-0895ec56e4d1">
 
 
 
