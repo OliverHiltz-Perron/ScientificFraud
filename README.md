@@ -1,7 +1,7 @@
-# The business of scientific misconduct: 
+# The business of scientific misconduct
 
 
-This repository contains a Python script designed to scrape data from a website 123mi.ru, a russian paper mill. It fetches and extracts data from a URL, processes the data, and finally saves the results to an Excel file.
+This repository contains a Python script designed to scrape data from a website 123mi.ru, a Russian paper mill. It fetches and extracts data from a URL, processes the data, and finally saves the results to an Excel file.
 
 ## Features
 
