@@ -1,8 +1,10 @@
 # The business of scientific misconduct
 
+## About this project
 
-This repository contains a Python script designed to scrape data from a website 123mi.ru, a Russian paper mill. It fetches and extracts data from a URL, processes the data, and finally saves the results to an Excel file.
+During the challenges posed by COVID, I pursued and successfully completed the 'Python for Everyone Specialization' by the University of Michigan via Coursera. Leveraging these newfound skills, I played a pivotal role in an investigation into an _academic paper mill_ based in Russia, known as International Publishers. This clandestine organization specializes in the unethical practice of selling academic papers and orchestrating manipulative peer reviews.
 
+In this project, my responsibilities involved web scraping the entire library of papers available for sale from the organization's website as well as archived versions on the Internet Archive. I was instrumental in translating paper titles and performing currency conversions. The entirety of my robust code and the comprehensive dataset derived from this investigation is readily accessible both in this repository and on Data.World for transparency and wider community benefit.
 ## Features
 
 - Web scraping from a specified URL pattern.
