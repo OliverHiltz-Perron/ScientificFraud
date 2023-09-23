@@ -3,6 +3,7 @@
 ## About this project
 
 During the challenges posed by COVID, I pursued and successfully completed the 'Python for Everyone Specialization' by the University of Michigan via Coursera. Leveraging these newfound skills, I played a pivotal role in an investigation into an _academic paper mill_ based in Russia, known as International Publishers. This clandestine organization specializes in the unethical practice of selling academic papers and orchestrating manipulative peer reviews.
+
 <img width="1358" alt="Screenshot 2023-09-23 at 12 53 28 PM" src="https://github.com/Soul-Jacker/ScientificFraud/assets/2854746/1bec5996-1635-47f7-8e53-dba3eb10bb36">
 
 In this project, my responsibilities involved web scraping the entire library of papers available for sale from the organization's website as well as archived versions on the Internet Archive. I was instrumental in translating paper titles and performing currency conversions. The entirety of my robust code and the comprehensive dataset derived from this investigation is readily accessible both in this repository and on Data.World for transparency and wider community benefit.
